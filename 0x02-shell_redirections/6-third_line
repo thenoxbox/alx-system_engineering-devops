@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 tacta
+head -3 tacta | tail -1
